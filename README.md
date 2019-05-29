@@ -10,24 +10,24 @@ when learning go myself :)
 
 ## Exercises
 
-###Basics
+### Basics
 
-1. [Exercise](https://tour.golang.org/flowcontrol/8): Loops and Functions | [Solutions]()
-2. [Exercise](https://tour.golang.org/moretypes/18): Slices | [Solutions]()
-3. [Exercise](https://tour.golang.org/moretypes/23): Maps | [Solutions]()
-4. [Exercise](https://tour.golang.org/moretypes/26): Fibonacci closure | [Solutions]()
+1. [Exercise](https://tour.golang.org/flowcontrol/8): Loops and Functions | [Solutions](exercies/Basics/loops-and-functions.go)
+2. [Exercise](https://tour.golang.org/moretypes/18): Slices | [Solutions](exercies/Basics/slices.go)
+3. [Exercise](https://tour.golang.org/moretypes/23): Maps | [Solutions](exercies/Basics/maps.go)
+4. [Exercise](https://tour.golang.org/moretypes/26): Fibonacci closure | [Solutions](exercies/Basics/fibonacci-closure.go)
 
 
 ### Methods and interfaces
-1. [Exercise](https://tour.golang.org/methods/18): Stringers | [Solutions]()
-2. [Exercise](https://tour.golang.org/methods/20): Errors | [Solutions]()
-3. [Exercise](https://tour.golang.org/methods/22): Readers | [Solutions]()
-4. [Exercise](https://tour.golang.org/methods/23): rot13Reader | [Solutions]()
-5. [Exercise](https://tour.golang.org/methods/25): Images | [Solutions]()
+1. [Exercise](https://tour.golang.org/methods/18): Stringers | [Solutions](exercies/Methods and interfaces/stringer.go)
+2. [Exercise](https://tour.golang.org/methods/20): Errors | [Solutions](exercies/Methods and interfaces/errors.go)
+3. [Exercise](https://tour.golang.org/methods/22): Readers | [Solutions](exercies/Methods and interfaces/reader.go)
+4. [Exercise](https://tour.golang.org/methods/23): rot13Reader | [Solutions](exercies/Methods and interfaces/rot-reader.go)
+5. [Exercise](https://tour.golang.org/methods/25): Images | [Solutions](exercies/Methods and interfaces/images.go)
 
 ## Concurrency
-1. [Exercise](): | [Solutions](exercises/Concurrency/equivalent-binary-trees.go)
-2. [Exercise](): | [Solutions]()
+1. [Exercise](https://tour.golang.org/concurrency/7): Equivalent Binary Trees | [Solutions](exercises/Concurrency/equivalent-binary-trees.go)
+2. [Exercise](https://tour.golang.org/concurrency/10): Web Crawler | [Solutions]()
 
 ## Some other solutions that you can refer to
 1. Official Solutions: <https://github.com/golang/tour/tree/master/solutions>
