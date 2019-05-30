@@ -27,11 +27,12 @@ when learning go myself :)
 
 ## Concurrency
 1. [Exercise](https://tour.golang.org/concurrency/7): Equivalent Binary Trees | [Solutions](exercises/Concurrency/equivalent-binary-trees.go)
-2. [Exercise](https://tour.golang.org/concurrency/10): Web Crawler | [Solutions]()
+2. [Exercise](https://tour.golang.org/concurrency/10): Web Crawler | [Solutions](exercises/Concurrency/web-crawler.go)
 
 ## Some other solutions that you can refer to
 1. Official Solutions: <https://github.com/golang/tour/tree/master/solutions>
 2. <https://gist.github.com/inancgumus/d25d045b4cec43dcbb111e04980d396b>
 
 ## Other Resources
-1. [Go by Example](https://gobyexample.com/)
+
+[Go by Example](https://gobyexample.com/)
